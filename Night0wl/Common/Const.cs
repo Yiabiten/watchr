@@ -6,7 +6,7 @@
         public const string REGISTRY_SUB_KEY = "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run";
         public const string APP_KEY = "Windows Update";
 
-        public const string OUT_FILE = "";
-        public const string OUT_DIR = "output.txt";
+        public const string OUT_FILE = "output.txt";
+        public const string OUT_DIR = "";
     }
 }
